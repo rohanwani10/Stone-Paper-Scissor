@@ -66,7 +66,3 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 ---
 
 ### 📝 License
-
-
-If you want, I can also help you generate the full `README.md` file with this content! Would you like that?
-```
